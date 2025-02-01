@@ -68,7 +68,7 @@ def jsonDictionary(dictionary):
         "Heroic": "a_heroic",
         "Legendary": "a_legendary",
         "Normal": "a_normal",
-        "Halo2Aniversary": {
+        "Halo2Anniversary": {
             "Halo2A": "a_logo",
             "Awash": "b_awash",
             "Bloodline": "b_bloodline",
